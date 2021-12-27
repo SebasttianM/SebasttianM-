@@ -1,0 +1,25 @@
+body{
+    background-color: cadetblue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    width: 200px
+}
+
+h2{
+    color:darkgoldenrod;
+    margin-top: 22px;
+}
+
+ul{
+    list-style: none;
+}
+li{
+    font-size: 22px;
+}
+
+hr{
+    line-height-step: inherit;
+}
